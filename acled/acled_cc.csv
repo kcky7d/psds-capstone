@@ -1,0 +1,144 @@
+Country,Region,Start Date,ISO Code,CC
+Algeria,Africa,January 1997,12,DZA
+Angola,Africa,January 1997,24,AGO
+Benin,Africa,January 1997,204,BEN
+Botswana,Africa,January 1997,72,BWA
+Burkina Faso,Africa,January 1997,854,BFA
+Burundi,Africa,January 1997,108,BDI
+Cameroon,Africa,January 1997,120,CMR
+Central African Republic,Africa,January 1997,140,CAF
+Chad,Africa,January 1997,148,TCD
+Ivory Coast,Africa,January 1997,384,CIV
+Democratic Republic of Congo,Africa,January 1997,180,COD
+Djibouti,Africa,January 1997,262,DJI
+Egypt,Africa,January 1997,818,EGY
+Equatorial Guinea,Africa,January 1997,226,GNQ
+Eritrea,Africa,January 1997,232,ERI
+eSwatini,Africa,January 1997,748,SWZ
+Ethiopia,Africa,January 1997,231,ETH
+Gabon,Africa,January 1997,266,GAB
+Gambia,Africa,January 1997,270,GMB
+Ghana,Africa,January 1997,288,GHA
+Guinea,Africa,January 1997,324,GIN
+Guinea-Bissau,Africa,January 1997,624,GNB
+Kenya,Africa,January 1997,404,KEN
+Lesotho,Africa,January 1997,426,LSO
+Liberia,Africa,January 1997,430,LBR
+Libya,Africa,January 1997,434,LBY
+Madagascar,Africa,January 1997,450,MDG
+Malawi,Africa,January 1997,454,MWI
+Mali,Africa,January 1997,466,MLI
+Mauritania,Africa,January 1997,478,MRT
+Morocco,Africa,January 1997,504,MAR
+Mozambique,Africa,January 1997,508,MOZ
+Namibia,Africa,January 1997,516,NAM
+Niger,Africa,January 1997,562,NER
+Nigeria,Africa,January 1997,566,NGA
+Republic of Congo,Africa,January 1997,178,COG
+Rwanda,Africa,January 1997,646,RWA
+Senegal,Africa,January 1997,686,SEN
+Sierra Leone,Africa,January 1997,694,SLE
+Somalia,Africa,January 1997,706,SOM
+South Africa,Africa,January 1997,710,ZAF
+South Sudan,Africa,January 1997,728,SSD
+Sudan,Africa,January 1997,729,SDN
+Tanzania,Africa,January 1997,834,TZA
+Togo,Africa,January 1997,768,TGO
+Tunisia,Africa,January 1997,788,TUN
+Uganda,Africa,January 1997,800,UGA
+Zambia,Africa,January 1997,894,ZMB
+Zimbabwe,Africa,January 1997,716,ZWE
+Afghanistan,Caucasus and Central Asia,January 2017,4,AFG
+Albania,Europe,January 2018,8,ALB
+Antigua and Barbuda,Latin America,January 2019,28,ATG
+Argentina,Latin America,January 2019,32,ARG
+Armenia,Caucasus and Central Asia,January 2018,51,ARM
+Aruba,Latin America,January 2019,533,ABW
+Azerbaijan,Caucasus and Central Asia,January 2018,31,AZE
+Bahamas,Latin America,January 2019,44,BHS
+Bahrain,Middle East,January 2016,48,BHR
+Bangladesh,Asia,January 2010,50,BGD
+Barbados,Latin America,January 2019,52,BRB
+Belarus,Europe,January 2018,112,BLR
+Belize,Latin America,January 2019,84,BLZ
+Bermuda,Latin America,January 2019,60,BMU
+Bolivia,Latin America,January 2019,68,BOL
+Bosnia and Herzegovina,Europe,January 2018,70,BIH
+Brazil,Latin America,January 2019,76,BRA
+British Virgin Islands,Latin America,January 2019,92,VGB
+Bulgaria,Europe,January 2018,100,BGR
+Cambodia,Asia,January 2010,116,KHM
+Cayman Islands,Latin America,January 2019,136,CYM
+Chile,Latin America,January 2019,152,CHL
+Colombia,Latin America,January 2019,170,COL
+Costa Rica,Latin America,January 2019,188,CRI
+Croatia,Europe,January 2018,191,HRV
+Cuba,Latin America,January 2019,192,CUB
+Curacao,Latin America,January 2019,531,CUW
+Cyprus,Europe,January 2018,196,CYP
+Dominica,Latin America,January 2019,212,DMA
+Dominican Republic,Latin America,January 2019,214,DOM
+Ecuador,Latin America,January 2019,218,ECU
+El Salvador,Latin America,January 2019,222,SLV
+Georgia,Caucasus and Central Asia,January 2018,268,GEO
+Greece,Europe,January 2018,300,GRC
+Grenada,Latin America,January 2019,308,GRD
+Guatemala,Latin America,January 2019,320,GTM
+Guyana,Latin America,January 2019,328,GUY
+Haiti,Latin America,January 2019,332,HTI
+Honduras,Latin America,January 2019,340,HND
+India,Asia,January 2016,356,IND
+Indonesia,Asia,January 2016,360,IDN
+Iran,Middle East,January 2016,364,IRN
+Iraq,Middle East,January 2016,368,IRQ
+Israel,Middle East,January 2016,376,ISR
+Jamaica,Latin America,January 2019,388,JAM
+Jordan,Middle East,January 2016,400,JOR
+Kazakhstan,Caucasus and Central Asia,January 2018,398,KAZ
+Kosovo,Europe,January 2018,0,XKX
+Kuwait,Middle East,January 2016,414,KWT
+Kyrgyzstan,Caucasus and Central Asia,January 2018,417,KGZ
+Laos,Asia,January 2010,418,LAO
+Lebanon,Middle East,January 2016,422,LBN
+Malaysia,Asia,January 2018,458,MYS
+Mexico,Latin America,January 2019,484,MEX
+Moldova,Europe,January 2018,498,MDA
+Montenegro,Europe,January 2018,499,MNE
+Myanmar,Asia,January 2010,104,MMR
+Nepal,Asia,January 2010,524,NPL
+Nicaragua,Latin America,January 2019,558,NIC
+North Macedonia,Europe,January 2018,807,MKD
+Oman,Middle East,January 2016,512,OMN
+Pakistan,Asia,January 2010,586,PAK
+Panama,Latin America,January 2019,591,PAN
+Paraguay,Latin America,January 2019,600,PRY
+Peru,Latin America,January 2019,604,PER
+Philippines,Asia,January 2016,608,PHL
+Puerto Rico,Latin America,January 2019,630,PRI
+Qatar,Middle East,January 2016,634,QAT
+Romania,Europe,January 2018,642,ROU
+Russia,Europe,January 2018,643,RUS
+Saint Kitts and Nevis,Latin America,January 2019,659,KNA
+Saint Lucia,Latin America,January 2019,662,LCA
+Saint Vincent and Grenadines,Latin America,January 2019,670,VCT
+Saint-Martin,Latin America,January 2019,663,MAF
+Saudi Arabia,Middle East,January 2015,682,SAU
+Serbia,Europe,January 2018,688,SRB
+Sint Maarten,Latin America,January 2019,534,SXM
+Sri Lanka,Asia,January 2010,144,LKA
+Suriname,Latin America,January 2019,740,SUR
+Syria,Middle East,January 2017,760,SYR
+Tajikistan,Caucasus and Central Asia,January 2018,762,TJK
+Thailand,Asia,January 2010,764,THA
+Trinidad and Tobago,Latin America,January 2019,780,TTO
+Turkey,Middle East,January 2016,792,TUR
+Turkmenistan,Caucasus and Central Asia,January 2018,795,TKM
+Turks and Caicos Islands,Latin America,January 2019,796,TCA
+Ukraine,Europe,January 2018,804,UKR
+United Arab Emirates,Middle East,January 2016,784,ARE
+Uruguay,Latin America,January 2019,858,URY
+Uzbekistan,Caucasus and Central Asia,January 2018,860,UZB
+Venezuela,Latin America,January 2019,862,VEN
+Vietnam,Asia,January 2010,704,VNM
+"Virgin Islands, U.S.",Latin America,January 2019,850,VIR
+Yemen,Middle East,January 2015,887,YEM
